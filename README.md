@@ -1,4 +1,4 @@
-# Project Title
+# Stop watch
 
 Simple Stop Watch made By javascript(Vanilla js).
 
