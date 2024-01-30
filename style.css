@@ -1,0 +1,31 @@
+.box-watch {
+    width: 40%;
+    background-color: #ff9600;
+    border-radius: 8px;
+    margin: 100px auto;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+}
+.btns button {
+    width: 200px;
+    height: 41px;
+    font-size: 17px;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin: 0 3px;
+    color: #fff;
+    cursor: pointer;
+}
+.btns button:hover{
+    transition: all 0.4s ease-in-out;
+    background-color: #fff;
+    color: #ff9600 ;
+    border: 1px solid #ff9600;
+}
+#data-scop {
+    display: flex;
+}
