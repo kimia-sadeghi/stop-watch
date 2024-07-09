@@ -9,9 +9,9 @@ Any advise for common problems or issues.
 
 ## Authors
 
-Amene Sadeghi
+kimia Sadeghi
 
-amene.sadegh92@gmail.com
+kimia.sadeghi8998@gmail.com
 
 
 ## License
